@@ -23,3 +23,5 @@ Code run by the first stage, which can for example offer a wider range of boot o
 * [petitboot](https://open-power.github.io/petitboot/overview.html)
 * [TianoCore EDK II](https://github.com/tianocore/edk2)
 * [SeaBIOS](https://www.seabios.org/SeaBIOS)
+* [barebox](https://www.barebox.org)
+* [u-boot](https://www.u-boot.org)
